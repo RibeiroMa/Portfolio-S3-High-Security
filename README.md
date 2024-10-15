@@ -1,7 +1,9 @@
-Este repositório foi desenvolvido como um portfólio para que avaliadores possam acessar minhas experiências com Terraform.
+# Portifolio
 
-O projeto consiste na criação integral de um Bucket S3 com foco em segurança. 
-Diversos recursos foram implementados para assegurar a proteção do bucket contra uma variedade de ameaças.
+Este repositório foi criado para que avaliadores possam acessar minhas experiências com Terraform.
 
-Entre as funcionalidades destacadas, incluem-se a criptografia de informações e o armazenamento de logs de todas as alterações realizadas nos arquivos do bucket.
-Alem de bloqueio a acessos externos e afins.
+O projeto consiste na criação integral de um Bucket S3 que complete todos os requisitos de segurança do **escaner Trivy**, feito pela **AquaSecurity**
+https://trivy.dev/
+
+
+
